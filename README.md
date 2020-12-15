@@ -1,4 +1,4 @@
-# menu-vue ceshi
+# menu-vue
 
 ## Project setup
 ```
